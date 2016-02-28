@@ -1,0 +1,11 @@
+pod 'Mantle'
+pod 'SVProgressHUD'
+pod 'VCRURLConnection'
+
+target "WANTTests" do
+    pod 'VCRURLConnection'
+end
+
+target "WANTUITests" do
+    pod 'VCRURLConnection'
+end

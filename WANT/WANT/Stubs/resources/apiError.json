@@ -1,0 +1,15 @@
+{
+    "success": false,
+    "result": {
+        "error": {
+            "message": "getaddrinfo ENOTFOUND content.guardiadssdnapis.com content.guardiadssdnapis.com:80",
+            "stack": "Error: getaddrinfo ENOTFOUND content.guardiadssdnapis.com content.guardiadssdnapis.com:80\n    at errnoException (dns.js:26:10)\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:77:26)",
+            "code": "ENOTFOUND",
+            "errno": "ENOTFOUND",
+            "syscall": "getaddrinfo",
+            "hostname": "content.guardiadssdnapis.com",
+            "host": "content.guardiadssdnapis.com",
+            "port": 80
+        }
+    }
+}

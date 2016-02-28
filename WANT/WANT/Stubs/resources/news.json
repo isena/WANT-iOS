@@ -1,0 +1,105 @@
+{
+    "success": true,
+    "result": [
+               {
+               "type": "article",
+               "sectionId": "football",
+               "webTitle": "Joel Matip’s signing has saved Liverpool millions, claims Jürgen Klopp",
+               "webPublicationDate": "2016-02-16T22:30:04Z",
+               "id": "football/2016/feb/16/liverpool-joel-matip-jurgen-klopp",
+               "webUrl": "http://www.theguardian.com/football/2016/feb/16/liverpool-joel-matip-jurgen-klopp",
+               "apiUrl": "http://content.guardianapis.com/football/2016/feb/16/liverpool-joel-matip-jurgen-klopp",
+               "sectionName": "Football"
+               },
+               {
+               "type": "liveblog",
+               "sectionId": "us-news",
+               "webTitle": "Trump gives voice to 'Scalia-was-murdered' conspiracy – campaign live",
+               "webPublicationDate": "2016-02-16T22:27:13Z",
+               "id": "uk-news/2016/feb/16/tim-newton-rachel-slater-climbers-missing-ben-nevis-mountain",
+               "webUrl": "http://www.theguardian.com/us-news/live/2016/feb/16/us-presidential-election-campaign-live-coverage-trump-cruz-clinton-sharpton-george-jeb-bush-south-carolina-primary-nevada-caucus",
+               "apiUrl": "http://content.guardianapis.com/us-news/live/2016/feb/16/us-presidential-election-campaign-live-coverage-trump-cruz-clinton-sharpton-george-jeb-bush-south-carolina-primary-nevada-caucus",
+               "sectionName": "US news"
+               },
+               {
+               "type": "article",
+               "sectionId": "environment",
+               "webTitle": "Coalition of US states pledge to accelerate renewable energy efforts",
+               "webPublicationDate": "2016-02-16T22:18:19Z",
+               "id": "environment/2016/feb/16/us-states-renewable-energy-green-economy",
+               "webUrl": "http://www.theguardian.com/environment/2016/feb/16/us-states-renewable-energy-green-economy",
+               "apiUrl": "http://content.guardianapis.com/environment/2016/feb/16/us-states-renewable-energy-green-economy",
+               "sectionName": "Environment"
+               },
+               {
+               "type": "article",
+               "sectionId": "football",
+               "webTitle": "Ángel Di María fires PSG’s grand ambitions and panics Chelsea | Dominic Fifield",
+               "webPublicationDate": "2016-02-16T22:13:21Z",
+               "id": "football/blog/2016/feb/16/angel-di-maria-psg-chelsea-champions-league",
+               "webUrl": "http://www.theguardian.com/football/blog/2016/feb/16/angel-di-maria-psg-chelsea-champions-league",
+               "apiUrl": "http://content.guardianapis.com/football/blog/2016/feb/16/angel-di-maria-psg-chelsea-champions-league",
+               "sectionName": "Football"
+               },
+               {
+               "type": "article",
+               "sectionId": "us-news",
+               "webTitle": "Los Angeles hospital returns to faxes and paper charts after cyberattack",
+               "webPublicationDate": "2016-02-16T22:11:14Z",
+               "id": "us-news/2016/feb/16/los-angeles-hospital-cyberattack-ransomware-data-computers",
+               "webUrl": "http://www.theguardian.com/us-news/2016/feb/16/los-angeles-hospital-cyberattack-ransomware-data-computers",
+               "apiUrl": "http://content.guardianapis.com/us-news/2016/feb/16/los-angeles-hospital-cyberattack-ransomware-data-computers",
+               "sectionName": "US news"
+               },
+               {
+               "type": "article",
+               "sectionId": "commentisfree",
+               "webTitle": "The issue is not Hillary Clinton's Wall St links but her party's core dogmas | Thomas Frank",
+               "webPublicationDate": "2016-02-16T22:01:18Z",
+               "id": "global/2016/feb/16/the-issue-is-not-hillary-clintons-wall-st-links-but-her-partys-core-dogmas",
+               "webUrl": "http://www.theguardian.com/global/2016/feb/16/the-issue-is-not-hillary-clintons-wall-st-links-but-her-partys-core-dogmas",
+               "apiUrl": "http://content.guardianapis.com/global/2016/feb/16/the-issue-is-not-hillary-clintons-wall-st-links-but-her-partys-core-dogmas",
+               "sectionName": "Opinion"
+               },
+               {
+               "type": "article",
+               "sectionId": "tv-and-radio",
+               "webTitle": "Happy Valley recap: series 2, episode 2 – blood and Shiraz all over the rug",
+               "webPublicationDate": "2016-02-16T22:00:03Z",
+               "id": "tv-and-radio/2016/feb/16/happy-valley-recap-season-2-episode-2-blood-shiraz-all-over-rug",
+               "webUrl": "http://www.theguardian.com/tv-and-radio/2016/feb/16/happy-valley-recap-season-2-episode-2-blood-shiraz-all-over-rug",
+               "apiUrl": "http://content.guardianapis.com/tv-and-radio/2016/feb/16/happy-valley-recap-season-2-episode-2-blood-shiraz-all-over-rug",
+               "sectionName": "Television & radio"
+               },
+               {
+               "type": "article",
+               "sectionId": "us-news",
+               "webTitle": "Obama to sign law banning US imports of fish caught by slave labor",
+               "webPublicationDate": "2016-02-16T21:55:28Z",
+               "id": "us-news/2016/feb/16/obama-ban-fish-imports-slavery",
+               "webUrl": "http://www.theguardian.com/us-news/2016/feb/16/obama-ban-fish-imports-slavery",
+               "apiUrl": "http://content.guardianapis.com/us-news/2016/feb/16/obama-ban-fish-imports-slavery",
+               "sectionName": "US news"
+               },
+               {
+               "type": "article",
+               "sectionId": "football",
+               "webTitle": "Edinson Cavani’s low shot gives PSG the edge over Chelsea",
+               "webPublicationDate": "2016-02-16T21:47:26Z",
+               "id": "football/2016/feb/16/paris-saint-germain-chelsea-champions-league-match-report",
+               "webUrl": "http://www.theguardian.com/football/2016/feb/16/paris-saint-germain-chelsea-champions-league-match-report",
+               "apiUrl": "http://content.guardianapis.com/football/2016/feb/16/paris-saint-germain-chelsea-champions-league-match-report",
+               "sectionName": "Football"
+               },
+               {
+               "type": "article",
+               "sectionId": "law",
+               "webTitle": "Swing state Republicans oppose Obama choosing next supreme court justice",
+               "webPublicationDate": "2016-02-16T21:41:27Z",
+               "id": "law/2016/feb/16/supreme-court-judge-swing-state-republicans-barack-obama-antonin-scalia",
+               "webUrl": "http://www.theguardian.com/law/2016/feb/16/supreme-court-judge-swing-state-republicans-barack-obama-antonin-scalia",
+               "apiUrl": "http://content.guardianapis.com/law/2016/feb/16/supreme-court-judge-swing-state-republicans-barack-obama-antonin-scalia",
+               "sectionName": "Law"
+               }
+               ]
+}
