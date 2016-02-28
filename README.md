@@ -38,8 +38,6 @@ The app was developed and tested with:
 * OS X El Capitan 10.11.1;
 * CocoaPods 0.39.0.
 
-[You can take a look at iOS app code here](frontend).
-
 ## Backend
 
 The iOS app connects to backend application that was built with [Node.js](https://nodejs.org) and is hosted on [Bluemix](http://www.ibm.com/cloud-computing/bluemix/) and rely on:
@@ -55,7 +53,7 @@ The iOS app connects to backend application that was built with [Node.js](https:
 * [HTML to text](https://github.com/werk85/node-html-to-text);
 * [Request](https://github.com/request/request#readme);
 
-[You can take a look at server code here](backend).
+[You can take a look at server code here](https://github.com/isena/WANT-Server).
 
 ## Architecture Diagram
 
